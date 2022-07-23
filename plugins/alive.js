@@ -34,12 +34,12 @@ Module({
   var buttons = [{
     urlButton: {
         displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        url: ''
     }
 }, {
   urlButton: {
     displayText: 'Contact Owner',
-    url: 'https://wa.me/'+BOT_INFO.split(";")[2]+'?text=Hey+bro'
+    url: 'https://wa.me/'+94758663348=Hey+bro'
     }
 }, {
     quickReplyButton: {
@@ -54,7 +54,7 @@ Module({
 }, {
     quickReplyButton: {
         displayText: 'Support group',
-        id: 'support'+myid
+        id: '
     }
 }]
 var gc=commands.filter(a=>"group"===a.use),lgc=commands.filter(a=>"logo"===a.use),tc=commands.filter(a=>"textmaker"===a.use),oc=commands.filter(a=>"owner"===a.use),dc=commands.filter(a=>"download"===a.use),ec=commands.filter(a=>"edit"===a.use),sc=commands.filter(a=>"search"===a.use),uc=commands.filter(a=>"utility"===a.use),setarr=[...gc,...dc,...tc,...oc,...ec,...sc,...uc]
