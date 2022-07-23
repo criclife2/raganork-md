@@ -5,7 +5,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/criclife2/raganork-md",
+	"repository": "https://github.com/raganork-ind/whatsapp-bot,
 	"stack": "container",
     "env": { 
         "HANDLERS": {
